@@ -4,7 +4,7 @@
 2、本文档仅用于学习研究目的。<br>
 
 【部署架构图】<br>
-![image](https://raw.githubusercontent.com/wanpf/-WIFI-/main/%E7%BF%BB%E5%A2%99WIFI%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.png)
+![image](https://raw.githubusercontent.com/frnkhng/-WIFI-/main/%E7%BF%BB%E5%A2%99WIFI%E9%83%A8%E7%BD%B2%E8%AF%B4%E6%98%8E.png)
 
 声明：<br>
 1、本文档仅用于学习研究目的，如果用于其他用途本文作者不承担任何责任。<br>
